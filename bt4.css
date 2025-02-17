@@ -6,7 +6,7 @@
 .head{
     display: flex;
     align-items: center;
-    background-color: rgb(48, 48, 212);
+    background-color: rgb(95, 95, 217);
     color: white;
     height: 30px;
     width: 800px;
@@ -23,7 +23,7 @@
 }
 
 .slide{
-    background-color: rgb(59, 212, 59);
+    background-color: rgb(28, 230, 28);
     height: 240px;
     width: 160px;
     padding-left: 10px;
@@ -31,7 +31,7 @@
 }
 
 .content{
-    background-color: tomato;
+    background-color: rgb(223, 45, 14);
     height: 240px;
     width: 625px;
     padding-left: 10px;
