@@ -18,13 +18,13 @@
 .big{
     width: 400px;
     height: 110px;
-    background-color: rgb(35, 22, 84);
+    background-color: rgb(50, 30, 122);
     margin: 5px;
     line-height: 50px;
     text-align: center;
 }
 
-.small{
+.area_small{
     display: flex;
     flex-direction: column;
 }
@@ -37,7 +37,7 @@
 .small{
     width: 160px;
     height: 50px;
-    background-color: rgb(35, 22, 84);
+    background-color: rgb(50, 30, 122);
     margin: 5px;
     line-height: 50px;
     text-align: center;
